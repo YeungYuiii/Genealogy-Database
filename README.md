@@ -1,7 +1,8 @@
 # Genealogy-Database
 Family Trees and Genealogy Archives in Database <br/>
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2f/Wenceslaus_Hollar%2C_Jacob_van_Werden_-_Genealogical_tree_of_three_Portuguese_families.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Wenceslaus_Hollar%2C_Jacob_van_Werden_-_Genealogical_tree_of_three_Portuguese_families.jpg" width="720">
+
 > Hollar, Wenceslaus. “Genealogical tree of three Portuguese families” Wikimedia Commons, 1645, https://www.britishmuseum.org/collection/object/P_Q-6-137.
 
 - Here is the main project research problem: <br/>
